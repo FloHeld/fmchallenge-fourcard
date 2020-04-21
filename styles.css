@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+header {
+  max-width: 500px;
+  margin: auto;
+}
+
+h1,h2,h3,h4 {
+  color:#4c4e61
+}
+h1{
+  margin:0;
+  font-weight: 600;
+}
+h2 {
+  font-weight: 200;
+  margin: 2rem 0 0;
+  font-size: 2rem;
+}
+p {
+  color:#a3a5ae;
+  line-height: 1.7;
+  font-size: 0.9rem;
+}
+.subline{
+  margin:1.5rem auto 4rem;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
